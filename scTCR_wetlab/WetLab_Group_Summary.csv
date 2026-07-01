@@ -1,0 +1,5 @@
+"Group","Total_Clonotypes","Ready_For_WetLab","Max_Clone_Size","Mean_Clone_Size","Median_Clone_Size","Clones_GE50","Clones_GE20","Clones_GE10","Multi_TRBV_Count"
+"G1",275,275,577,9.5,3,7,18,38,22
+"G2",385,385,276,6.77,3,10,20,34,43
+"G3",257,257,221,11.05,3,14,34,54,33
+"G4",185,184,205,7.55,2,4,12,25,19
